@@ -1,0 +1,71 @@
+{
+  "login": {
+    "userId": "admin"
+  },
+  "activity_list": {
+    "total": 2,
+    "list": [{
+        "id": 1,
+        "imgUrl": "http://img1.imgtn.bdimg.com/it/u=569334953,1638673400&fm=27&gp=0.jpg",
+        "title": "活动标题",
+        "createTime": "2017-7-31 15:29:28",
+        "startTime": "2017-7-31 15:29:28",
+        "endTime": "2017-7-31 15:29:28",
+        "qrcodeUrl": "http://img1.imgtn.bdimg.com/it/u=569334953,1638673400&fm=27&gp=0.jpg" ,
+        "status": 0
+    }]
+  },
+  "activityinfo_list": {
+    "total": 1,
+    "list": [{
+        "id": 1,
+        "imgUrl": "http://img1.imgtn.bdimg.com/it/u=569334953,1638673400&fm=27&gp=0.jpg",
+        "title": "活动标题",
+        "publishTime": "2017-7-31 15:29:28",
+        "cyNum": 100,
+        "zjNum": 100,
+        "cjNum": 100,
+        "xhNum": 100
+    }]
+  },
+  "activity_report": {
+    "cyNumCount": 100,
+    "zjNumCount": 100,
+    "cjNumCount": 100,
+    "xhNumCount": 100,
+    "detail": [{
+        "date": "2017-01-01",
+        "cyNum": 100,
+        "zjNum": 100,
+        "cjNum": 100,
+        "xhNum": 100
+    }]
+  },
+  "user_lucky_list": {
+    "total": 1,
+    "list": [{
+        "headImgUrl": "http://pic2.ooopic.com/12/42/25/02bOOOPIC95_1024.jpg",
+        "nickName": "昵称",
+        "sex": "男",
+        "area": "广东 广州",
+        "luckyTime": "2017-7-31 15:29:28",
+        "prizeName": "10元红包",
+        "status": "发放成功",
+        "name": "姓名",
+        "mobile": "15478425137",
+        "address": "收货地址"
+    }]
+  },
+  "user_play_list": {
+    "total": 2,
+    "list": [{
+        "headImgUrl": "http://pic2.ooopic.com/12/42/25/02bOOOPIC95_1024.jpg",
+        "nickName": "昵称",
+        "sex": "男",
+        "area": "广东 广州",
+        "playTime": "2017-7-31 15:29:28",
+        "ip": "IP地址",
+        "ua":"useragent"
+    }]
+  }
+}
